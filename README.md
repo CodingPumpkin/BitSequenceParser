@@ -3,8 +3,8 @@
 I wrote this code for a test task. This was my first time coding in tcl. I made a C version (to gain a little confidence mostly) and then I wrote a tcl version.
 
 ## Installation
-If you want to run the C version you'll need to build it for yourself. I used the following command:
->bit_sequence_parser.c -Wall -std=c99 на gcc 13.2.1
+If you want to run the C version you'll need to build it for yourself. I used the following command (I did with gcc 13.2.1):
+>bit_sequence_parser.c -Wall -std=c99
 
 If you want to run tcl version you'll need to make the file executable and run it as
 > ./bit_sequence_parser.tcl
