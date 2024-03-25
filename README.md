@@ -14,3 +14,5 @@ Or you can run it with your interpreter, for instance:
 ## Usage
 The parser has a fixed number set in it. On execution it gets three parameters from this number and presents them to the user.
 The number and all the details can be found in the code.
+## Note
+The C program uses %b in formatted output so you'll need to have glibc version 2.35 or higher.
