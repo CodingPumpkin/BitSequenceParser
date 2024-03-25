@@ -4,7 +4,7 @@ I wrote this code for a test task. This was my first time coding in tcl. I made 
 
 ## Installation
 If you want to run the C version you'll need to build it for yourself. I used the following command (I did with gcc 13.2.1):
->bit_sequence_parser.c -Wall -std=c99
+>gcc bit_sequence_parser.c -Wall -std=c99
 
 If you want to run tcl version you'll need to make the file executable and run it as
 > ./bit_sequence_parser.tcl
